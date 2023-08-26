@@ -11,7 +11,7 @@ sample_submission.csv - ตัวอย่างไฟล์ที่ใช้�
 
 1 - หมายถึงภาพจริง อาจถูก cropped หรือ resized เท่านั้น
 
-!kaggle competitions download -c hackathon-online-realfakenumbers
+Load Dataset >>> !kaggle competitions download -c hackathon-online-realfakenumbers
 
 ## Copy and finetune knot model
 
